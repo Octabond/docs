@@ -4,12 +4,7 @@ Welcome to the Fonema API! This service allows you to programmatically initiate 
 
 ## Authentication
 
-* **Authorization**
-
-
-
-
-  **User your earer token**
+* **AuthorizationUser your earer token**
 
 ```bash
 Authorization: Bearer YOUR_TOKEN
